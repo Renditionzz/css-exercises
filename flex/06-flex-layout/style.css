@@ -25,3 +25,16 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+ul {
+  list-style-type: none;
+  padding:10px;
+}
+.header {
+  display:flex;
+  justify-content: space-between;
+}
+.header ul {
+  display:flex;
+  gap:10px;
+}
