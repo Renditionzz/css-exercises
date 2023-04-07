@@ -23,6 +23,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding:5px 10px;
+  font-weight: bold;
 }
 
 input {
